@@ -12,3 +12,5 @@ Allows conditional generation based on color, texture, or style
 Can be fine-tuned for specific textile industries
 
 will help the consumer be efficient and resourceful
+
+
